@@ -1,4 +1,3 @@
-# ArcadeOS-for-Trimui-Smart-Pro
 <h1 align="center"> ArcadeOS for Trimui Smart Pro </h1>
 
 <br>
