@@ -1,5 +1,5 @@
 <h1 align="center"> ArcadeOS for Trimui Smart Pro </h1>
-
+<p align="center"> <img src="https://github.com/SKINOX21/ArcadeOS-for-Trimui-Smart-Pro/blob/Pics/miniature.png"/> </p>
 <br>
 <p align="center"> <b> An Apple fanmade theme for Trimui smart pro </b> </p>
 <br>
