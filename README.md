@@ -21,7 +21,7 @@ During all this tuto, I will use the "TSP" word to say Trimui Smart Pro
 <br>
 
 ## Theme
-The theme installation is the easiest thing, you just have to unzip the release you download and copy the `ArcadeOS` file in the `Themes` file on the SD card of you TSP
+The theme installation is the easiest thing, you just have to unzip the release you download and copy the `ArcadeOS - Dark` file in the `Themes` file on the SD card of you TSP
 
 
 
