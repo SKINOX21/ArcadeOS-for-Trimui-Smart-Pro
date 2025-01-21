@@ -5,5 +5,6 @@
 <br>
 <br>
 <p <b> In development... </b> </p>
-<p <b> For make my theme, I used the <a href="https://www.reddit.com/user/Skylance420/"> Skylance420 <a/> themes to have a base <b/> <p/>
+<p <b> For make my theme, I used the <a href="https://www.reddit.com/user/Skylance420/"> Skylance420 <a/> themes to have a base. <b/> <p/>
+  <p <b> This project makes use of Apple Inc.'s resources, including fonts and design elements, for non-commercial purposes only. All trademarks, logos, and other proprietary content of Apple Inc. are used under their respective licenses and are the property of Apple Inc. This project is not affiliated with, endorsed by, or in any way associated with Apple Inc. <b/> <p/>
 <p align="center"> <b> I'm french and my English is not perfect, excuse me if there is mistakes.</b> </p>
