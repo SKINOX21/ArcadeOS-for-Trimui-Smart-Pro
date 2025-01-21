@@ -5,5 +5,5 @@
 <br>
 <br>
 <p <b> In development... </b> </p>
-<p <b> For make my theme, I used the <a href="https://www.reddit.com/user/Skylance420/"> Skylance420 <a/>
+<p <b> For make my theme, I used the <a href="https://www.reddit.com/user/Skylance420/"> Skylance420 <a/> themes to have a base <b/> <p/>
 <p align="center"> <b> I'm french and my English is not perfect, excuse me if there is mistakes.</b> </p>
