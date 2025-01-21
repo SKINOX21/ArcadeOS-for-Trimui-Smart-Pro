@@ -1,4 +1,6 @@
 <h1 align="center"> ArcadeOS for Trimui Smart Pro </h1>
+<h2 align="center"> Fournaise - 0.1 </h2>
+
 <p align="center"> <b> An Apple fanmade theme for Trimui smart pro </b> </p>
 
 <br>
@@ -9,13 +11,25 @@
 <br>
 
 
-<h2> 1. Installation</h2>
+# Installation
+
+First of all, I recommand you to use <a href="https://github.com/cizia64/CrossMix-OS"> Crossmix OS <a/>as OS, it's not an obligation but Crossmix is better on all points
+<br>
+This tutorial is made for the Crossmix OS user so if your not using it some point may be different.
+<br>
+During all this tuto, I will use the "TSP" word to say Trimui Smart Pro
 <br>
 
+## Theme
+The theme installation is the easiest thing, you just have to unzip the release you download and copy the `ArcadeOS` file in the `Themes` file on the SD card of you TSP
 
 
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="center"> For make my theme, I used the <a href="https://www.reddit.com/user/Skylance420/"> Skylance420 <a/> themes to have a base. <p/>
 <p align="center">  This project makes use of Apple Inc.'s resources, including fonts and design elements, for non-commercial purposes only. All trademarks, logos, and other proprietary content of Apple Inc. are used under their respective licenses and are the property of Apple Inc. This project is not affiliated with, endorsed by, or in any way associated with Apple Inc.  <p/>
