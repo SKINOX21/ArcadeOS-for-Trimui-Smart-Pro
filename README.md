@@ -26,8 +26,12 @@ The theme installation is the easiest thing, you just have to unzip the release 
 After this, you just have to eject the SD card and put back in your TSP.
 <br>
 Now you just have to go in theme and change the theme.
-<img src="https://"/>
-
+<br>
+<img src="https://github.com/SKINOX21/ArcadeOS-for-Trimui-Smart-Pro/blob/Pics/themeinstallpicture.png"/>
+<br>
+<details> <summary> Advanced Personalisation <b>(click to open)</b> </summary>
+To personalize the OS, you can just open the System Tools app go into the Theme menu and set the option like this : 
+</details>
 
 <br>
 <br>
